@@ -20,10 +20,3 @@ Dr. Angela Widgeon is Professor. Mentor. Problem-Solver. Storyteller. Encourager
 ### Research interests
 
 Her research interest are discovering and teaching research methods. 
-
-
-### Service and outreach
-
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
