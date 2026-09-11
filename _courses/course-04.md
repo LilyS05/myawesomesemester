@@ -4,9 +4,9 @@ course_code: "COMM 2124"
 course_title: "INTRODUCTION TO COMMUNICATION RESEARCH"
 meeting_time: "TR 12:30-1:45 PM"
 location: "Derring 1014"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+instructor_name: "Professor Angela Widgeon"
+instructor_title: "Instructor"
+instructor_department: "School of Communications"
 ---
 
 ## About this course
