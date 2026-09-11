@@ -5,7 +5,7 @@ course_title: "Professional Communication "
 meeting_time: "MWF 10:10–11:00 AM"
 location: "SHANKS 160"
 instructor_name: "Professor Angela Widgeon"
-instructor_department: "School of COMM"
+instructor_department: "School of Communication"
 ---
 
 ## About this course
